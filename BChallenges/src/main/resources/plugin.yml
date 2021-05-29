@@ -1,0 +1,8 @@
+name: Better-Challenges
+main: de.pixelmc.bchallenges.Challenge
+version: 1.0.0-BETA
+author: YyTFlo
+
+commands:
+  gamemode:
+    aliases: [gm]
